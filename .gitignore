@@ -1,0 +1,13 @@
+# Racket compiled bytecode/dependency caches
+compiled/
+**/compiled/
+*.zo
+*.dep
+*.dat
+
+# Racket package/info caches
+info-cache.rktd
+doc/
+
+# VS Code
+.vscode/
